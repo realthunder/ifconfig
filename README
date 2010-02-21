@@ -9,5 +9,11 @@ To compile on the iphone (as I did) you will need extra Makefiles and header fil
 If you're just looking for a way to put your card in promisc mode, add http://theworm.altervista.org/cydia/ in your Cydia app as a source, and download 'network-cmds'. Enjoy yourself.
 
 
+### IMPORTANT:
+Ported to the iPhone thanks to TheWorm and Wim Verreycken.
+We're working to get MONITOR MODE too!!
+So donate to support us, if possible: click on the Donate Button or go to http://theworm.altervista.org/cydia/. Thanks!
+
+
 
 TheWorm
