@@ -1,0 +1,13 @@
+ifconfig is a part of Network Cmds package, version 307.0.1
+The program has been modified in order to compile and run on the iPhone system.
+It allows us to get network devices in promisc (promiscuous) mode. Ex:
+
+ifconfig en0 promisc
+
+To compile on the iphone (as I did) you will need extra Makefiles and header files. Just search them on the net, they should come from directly from Apple. I'll provide them as soon as possible so you won't need to do such a boring work.
+
+If you're just looking for a way to put your card in promisc mode, add http://theworm.altervista.org/cydia/ in your Cydia app as a source, and download 'network-cmds'. Enjoy yourself.
+
+
+
+TheWorm
